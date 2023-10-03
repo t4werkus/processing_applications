@@ -1,0 +1,4 @@
+/home/t4werka/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/t4werka/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/t4werka/CLionProjects/processing_applications -B /home/t4werka/CLionProjects/processing_applications/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/t4werka/CLionProjects/processing_applications/cmake-build-debug

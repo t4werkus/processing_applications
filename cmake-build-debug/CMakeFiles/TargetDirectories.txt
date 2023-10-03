@@ -1,0 +1,3 @@
+/home/t4werka/CLionProjects/processing_applications/cmake-build-debug/CMakeFiles/processing_applications.dir
+/home/t4werka/CLionProjects/processing_applications/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/t4werka/CLionProjects/processing_applications/cmake-build-debug/CMakeFiles/rebuild_cache.dir
